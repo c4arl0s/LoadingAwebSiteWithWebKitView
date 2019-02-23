@@ -1,7 +1,7 @@
 # LoadingAwebSiteWithWebKitView
 LoadingAwebSiteWithWebKitView
 
-```
+``` swift
 
 import UIKit
 import WebKit
